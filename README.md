@@ -1,7 +1,3 @@
-Here is a comprehensive, publication-ready project writeup for your capstone. It is structured exactly as requested, balancing technical depth with clean, accessible formatting perfect for Kaggle, GitHub, or your final presentation.
-
----
-
 # ProjectPilot AI
 
 ### Turn Rough Project Ideas Into Complete, Execution-Ready AI/ML Blueprints
